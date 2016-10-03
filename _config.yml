@@ -1,6 +1,6 @@
 title: stangles
 description: The personal website of Steven Angles, software engineer.
-baseurl: "/"
+baseurl: ""
 url: "http://stangles.me"
 
 author:
@@ -11,4 +11,4 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: minima
+permalink: pretty
