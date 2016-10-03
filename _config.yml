@@ -1,0 +1,14 @@
+title: stangles
+description: The personal website of Steven Angles, software engineer.
+baseurl: "/"
+url: "http://stangles.me"
+
+author:
+  name: Steven Angles
+  url: http://stangles.me
+  twitter: steven_angles
+  github: stangles
+
+# Build settings
+markdown: kramdown
+theme: minima
